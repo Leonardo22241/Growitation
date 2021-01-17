@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Growitation</string>
+    <string name="response">Response : </string>
+    <string name="method">Method</string>
+    <string name="address">Address : </string>
+    <string name="send">Send</string>
+</resources>
